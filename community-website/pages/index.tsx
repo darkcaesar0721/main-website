@@ -17,8 +17,8 @@ const Home: NextPage = () => {
         "Submit your first open source contribution now!",
         "Join our awesome community of 290+ members!",
       ],
-      typeSpeed: 75,
-      backSpeed: 75,
+      typeSpeed: 100,
+      backSpeed: 100,
     };
 
     // #typing-element refers to the <code> rendered below
